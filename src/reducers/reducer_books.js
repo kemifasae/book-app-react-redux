@@ -4,6 +4,7 @@ export default function(){
     {title: 'The Quick Brown Fox'},
     {title: 'All the Way to Calvary'},
     {title: 'In the Beginning'},
-    {title: 'I Dreamed a Dream'}
+    {title: 'I Dreamed a Dream'},
+    {title: 'Christmas Time'}
   ];
 }
